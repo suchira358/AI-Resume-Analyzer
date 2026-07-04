@@ -1,6 +1,6 @@
-# 📄 AI Resume ATS Analyzer
+# AI Resume Analyzer
 
-An AI-powered Resume ATS Analyzer that evaluates resumes against job descriptions using Natural Language Processing (NLP). The application calculates ATS scores, measures semantic similarity, extracts skills, identifies missing skills, provides personalized feedback, and recommends suitable career roles.
+An AI-powered Resume Analyzer that evaluates resumes against job descriptions using Natural Language Processing (NLP). The application calculates ATS scores, measures semantic similarity, extracts skills, identifies missing skills, provides personalized feedback, and recommends suitable career roles.
 
 ## Features
 
@@ -51,6 +51,4 @@ AI-Resume-ATS-Analyzer/
 - Career Recommendations
 - Personalized Feedback
 
-## 👩‍💻 Author
 
-**Suchira**
