@@ -1,6 +1,7 @@
 import re
 import pandas as pd
-
+import os
+BASE = os.path.dirname(os.path.abspath(__file__))
 skills_df = pd.read_csv("data/skills.csv")
 skill_list = skills_df["Skill"].str.lower().tolist()
 
