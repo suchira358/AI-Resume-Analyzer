@@ -9,7 +9,7 @@ def extract_skills(text):
     found = []
 
     for skill in skill_list:
-        pattern = r"\b" + re.escape(skill) + r"s?\b"
+        pattern = r"(?<!\w)" + re.escape(skill) + r"s?(?!\w)"
         if re.search(pattern, text):
             found.append(skill)
 
